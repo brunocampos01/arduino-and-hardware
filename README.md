@@ -20,7 +20,7 @@
 
 
 ### Memory
-<img src="images/memoria-ram-notebook.jpg" align="right" height=auto width=40%>
+<img src="images/memoria-ram-notebook.jpg" align="right" height=auto width=35%>
 <br/>
 <br/>
 <img src="images/memoria-ram-pc.jpg"  align="left" height=auto width=40%>
